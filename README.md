@@ -1,1 +1,1 @@
-# bon-95
+# odin-recipes
